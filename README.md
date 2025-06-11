@@ -1,4 +1,4 @@
-👋 Hi, I’m Antonio a 21 year old Business Informatics Student from Germany!
+👋 Hi, I’m Antonio a 22 year old Business Informatics Student from Germany!
 
 🌱 I’m mainly learning Java as well as Python right now :) 
 
