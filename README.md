@@ -2,7 +2,7 @@
 
 🌱 I’m mainly learning Java as well as Python right now :) 
 
-💞️ I’m looking foreward to collaborate!
+💞️ I’m looking forward to collaborate!
 
 📫 How to reach me: antonio.reggimenti.dev@gmail.com
 
